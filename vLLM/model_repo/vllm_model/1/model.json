@@ -1,0 +1,9 @@
+{
+    "model":"/opt/tritonserver/chatglm3/chatglm3-6b",
+    "disable_log_requests": "true",
+    "gpu_memory_utilization": 0.5,
+    "trust_remote_code":"true", 
+    "tokenizer_mode": "auto", 
+    "tensor_parallel_size": 1,
+    "dtype": "float16"
+}

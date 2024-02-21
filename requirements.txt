@@ -1,0 +1,9 @@
+transformers==4.30.2
+sentencepiece==0.1.99
+# torch==2.0.1
+markdown==3.4.3
+faiss-gpu==1.7.2
+langchain==0.0.329 -i https://pypi.tuna.tsinghua.edu.cn/simple
+nltk==3.8.1 -i https://pypi.tuna.tsinghua.edu.cn/simple
+unstructured==0.10.24 -i https://pypi.tuna.tsinghua.edu.cn/simple
+sentence-transformers==2.2.2
